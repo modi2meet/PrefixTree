@@ -1,1 +1,1 @@
-# PrefixTree (Slingshot)
+# Trie
