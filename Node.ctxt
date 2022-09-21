@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=ch
+comment1.target=boolean\ containsKey(char)
+comment10.params=
+comment10.target=void\ setEnd()
+comment11.params=
+comment11.target=boolean\ isEnd()
+comment2.params=ch
+comment2.target=Node\ get(char)
+comment3.params=ch\ node
+comment3.target=void\ put(char,\ Node)
+comment4.params=
+comment4.target=void\ increaseEnd()
+comment5.params=
+comment5.target=void\ increasePrefix()
+comment6.params=
+comment6.target=void\ deleteEnd()
+comment7.params=
+comment7.target=void\ reducePrefix()
+comment8.params=
+comment8.target=int\ getEnd()
+comment9.params=
+comment9.target=int\ getPrefix()
+numComments=12
